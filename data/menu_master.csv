@@ -1,0 +1,9 @@
+item_id,item_name,category,selling_price,cost_price
+ITEM_01,Espresso,Beverage,3.5,0.6
+ITEM_02,Avocado Toast,Food,12.0,4.5
+ITEM_03,Croissant,Food,4.0,1.2
+ITEM_04,Iced Matcha Latte,Beverage,5.5,2.1
+ITEM_05,Cold Brew Coffee,Beverage,4.5,0.8
+ITEM_06,Truffle Fries,Food,9.0,5.8
+ITEM_07,Vegan Wrap,Food,10.5,3.2
+ITEM_08,Blueberry Muffin,Food,3.8,1.1
